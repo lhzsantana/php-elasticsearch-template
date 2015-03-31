@@ -1,0 +1,1 @@
+# php-elasticsearch-template
